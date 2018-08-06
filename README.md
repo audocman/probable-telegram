@@ -10,6 +10,9 @@ Project info
 
 Blah Blah 
 
+## Heading 2
+
+## OK
 
 # This is another heading 
 
@@ -17,9 +20,7 @@ More random text here! More random text here! More random text here! More random
 
 More random text here! More random text here! More random text here! More random text here! More random text here! More random text here! More random text here! More random text here! More random text here! More random text here! More random text here! More random text here! More random text here! More random text here! More random text here! More random text here! More random text here! More random text here! More random text here! More random text here! More random text here! More random text here! 
 
-## Heading 2
 
-## OK
 
 ## YOLO
 

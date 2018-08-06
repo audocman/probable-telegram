@@ -9,3 +9,17 @@ Here is some information about this project.
 Project info 
 
 Blah Blah 
+
+
+# This is another heading 
+
+More random text here 
+
+## Heading 2
+
+## OK
+
+## YOLO
+
+## Suggestions? 
+
